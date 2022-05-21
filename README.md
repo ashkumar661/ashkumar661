@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashwani Kumar
 - 👀 I’m interested in JAVA | Python | WebDev | Web3.0 | Web Socket | New emerging Techs
-- 🌱 I’m currently learning JAVA & WebSockets
+- 🌱 I’m currently learning JAVA with Front-end and Back-end
 - 💞️ I’m looking to collaborate on Web 3.0
 - 📫 How to reach me ash.kumar661@gmail.com
 
